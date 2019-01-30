@@ -1,4 +1,4 @@
-https://travis-ci.org/cphdat3sem2019spring/travisGettingStarted.svg?branch=master
+[![Build Status]https://travis-ci.org/cphdat3sem2019spring/travisGettingStarted.svg?branch=master
 
 Ultra simple Java Project meant for a Travis introduction
 
